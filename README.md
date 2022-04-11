@@ -18,3 +18,7 @@
 
 ### Yanking
 - `ctrl + y` pastes the thing that was last killed
+
+### man shortcuts
+- `f` move one page forward
+- `b` move one page backward
