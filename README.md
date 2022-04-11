@@ -24,6 +24,10 @@
 ### man shortcuts
 - `f/space` scroll down one page forward
 - `b` scroll up page backward
+- - `arrow up` scroll up one line
 - `enter/arrow down` scroll down one line
-- `/[pattern]` find a given pattern
+- `/[pattern]` find a the next match of a given pattern
+- `?[pattern]` find a the previous match of a given pattern
+- `n` next match
+- `N` previous match
 - `q` quit
