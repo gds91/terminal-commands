@@ -20,5 +20,8 @@
 - `ctrl + y` pastes the thing that was last killed
 
 ### man shortcuts
-- `f` move one page forward
-- `b` move one page backward
+- `f/space` scroll down one page forward
+- `b` scroll up page backward
+- `enter/arrow down` scroll down one line
+- `/[pattern]` find a given pattern
+- `q` quit
