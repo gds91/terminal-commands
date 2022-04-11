@@ -21,7 +21,7 @@
 
 ---
 
-### man shortcuts
+### less shortcuts
 - `f/space` scroll down one page forward
 - `b` scroll up page backward
 - - `arrow up` scroll up one line
